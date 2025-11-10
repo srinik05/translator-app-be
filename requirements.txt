@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+argostranslate
+pyttsx3
+whisper
+sounddevice
+scipy
+numpy
+pydub
+speechrecognition
+deep-translator
+gtts
+python-multipart
+requests
